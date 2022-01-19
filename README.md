@@ -38,17 +38,6 @@ graphics, video, text, and controls without limitation. Flutter includes a full
 [set of widgets][widget catalog] that deliver pixel-perfect experiences on both
 iOS and Android.
 
-<p align="center"><img src="https://github.com/flutter/website/blob/main/src/assets/images/docs/homepage/reflectly-hero-600px.png?raw=true" alt="Reflectly hero image"></p>
-
-### Fast results
-
-Flutter is fast. It's powered by the same hardware-accelerated 2D graphics
-library that underpins Chrome and Android: [Skia]. We architected Flutter to
-support glitch-free, jank-free graphics at the native speed of your device.
-Flutter code is powered by the world-class [Dart platform], which enables
-compilation to 32-bit and 64-bit ARM machine code for iOS and Android, as well
-as JavaScript for the web and Intel x64 for desktop devices.
-
 <p align="center"><img src="https://github.com/flutter/website/blob/main/src/assets/images/docs/homepage/dart-diagram-small.png?raw=true" alt="Dart diagram"></p>
 
 ### Productive development
