@@ -1,67 +1,31 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@haqimhaslee 
-flutter
-/
-flutter
-Public
-Code
-Issues
-5k+
-Pull requests
-203
-Actions
-Projects
-168
-Wiki
-Security
-Insights
-flutter/README.md
-@Pradumnasaraf
-Pradumnasaraf Align both reflectly-hero & dart-diagram to the center. (#90060)
-Latest commit f04b266 on Sep 21, 2021
- History
- 40 contributors
-@Hixie@abarth@timsneath@filiph@guidezpl@mit-mit@tvolkert@Rahiche@YazeedAlKhalaf@syoichi@sbaranov@sfshaza2
-96 lines (73 sloc)  5.1 KB
-   
 # [![Flutter logo][]][flutter.dev]
 
 [![Build Status - Cirrus][]][Build status]
 [![Discord badge][]][Discord instructions]
 [![Twitter handle][]][Twitter badge]
 
-Flutter is Google's SDK for crafting beautiful, fast user experiences for
-mobile, web, and desktop from a single codebase. Flutter works with existing
-code, is used by developers and organizations around the world, and is free
-and open source.
+This repositories is all of the code things.
 
 ## Documentation
 
-* [Install Flutter](https://flutter.dev/get-started/)
-* [Flutter documentation](https://flutter.dev/docs)
-* [Development wiki](https://github.com/flutter/flutter/wiki)
-* [Contributing to Flutter](https://github.com/flutter/flutter/blob/master/CONTRIBUTING.md)
+* [Official Website](https://haqim-haslee.web.app)
+* [Facebook](https://www.facebook.com/haqimhaslee)
+* [Twitter](https://twitter.com/haqimhaslee26)
+* [Instagram](https://www.instagram.com/haqim.haslee/?hl=en)
+* [LinkedIn](https://my.linkedin.com/in/haqim-haslee-166b00113)
 
 For announcements about new releases and breaking changes, follow the
-[flutter-announce@googlegroups.com](https://groups.google.com/forum/#!forum/flutter-announce)
+[haqimhaslee@googlegroups.com](https://groups.google.com/g/haqimhaslee)
 mailing list or see the
-[breaking changes](https://flutter.dev/docs/release/breaking-changes) page.
+[breaking changes](https://haqim-haslee.web.app) page.
 
 ## Terms of service
 
-The Flutter tool may occasionally download resources from Google servers. By downloading or using the Flutter SDK you agree to the Google Terms of Service: https://policies.google.com/terms
+Not available for now
 
-For example, when installed from GitHub (as opposed to from a prepackaged archive), the Flutter tool will download the Dart SDK from Google servers immediately when first run, as it is used to execute the "flutter" tool itself. This will also occur when Flutter is upgraded (e.g. by running the "flutter upgrade" command).
+## About This repositories
 
-## About Flutter
-
-We think Flutter will help you create beautiful, fast apps, with a productive,
+I think this all of these code will help the others to create and learn to code with a productive,
 extensible and open development model.
 
 ### Beautiful user experiences
@@ -126,15 +90,4 @@ Information on how to get started can be found in our
 [FFI]: https://flutter.dev/docs/development/platform-integration/c-interop
 [platform channels]: https://flutter.dev/docs/development/platform-integration/platform-channels
 [interop example]: https://github.com/flutter/flutter/tree/master/examples/platform_channel
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+© 2022 Haqim Haslee
